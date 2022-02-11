@@ -20,16 +20,19 @@ This application is an example of stop watch
 you can find the diffrent screen states 
 <table>
      <tr>
-          <img src="Screenshot_1644613479.png"
-          style="height:50%; width:50%" />
+          <th>
+               <img src="Screenshot_1644613479.png"
+               style="height:50%; width:50%" />
+          </th>
+          <th>
+               <img src="Screenshot_1644613479.png"
+               style="height:50%; width:50%" />
+          </th>
+          <th>
+               <img src="Screenshot_1644613479.png"
+               style="height:50%; width:50%" />
+          </th>
      </tr>
-     <tr>
-          <img src="Screenshot_1644613479.png"
-          style="height:50%; width:50%" />
-     </tr>
-     <tr>
-          <img src="Screenshot_1644613479.png"
-          style="height:50%; width:50%" />
-     </tr>
+
 </table>
 
