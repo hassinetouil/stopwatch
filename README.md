@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## About Application
 This application is an example of stop watch
+you can find the diffrent screen states 
+![](Screenshot_1644613469)
