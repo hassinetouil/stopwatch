@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 This application is an example of stop watch
 you can find the diffrent screen states 
 <img src="Screenshot_1644613479.png"
-     style="heigth:50%" />
+     style="height:50%; width:50%" />
