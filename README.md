@@ -24,10 +24,10 @@ you can find the diffrent screen states
                <img src="Screenshot_1644613479.png"/>
           </th>
           <th>
-               <img src="Screenshot_1644613479.png"/>   
+               <img src="Screenshot_1644613469.png"/>   
           </th>
           <th>
-               <img src="Screenshot_1644613479.png"/>   
+               <img src="Screenshot_1644613486.png"/>   
           </th>
      </tr>
 
