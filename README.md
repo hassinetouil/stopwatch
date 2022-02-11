@@ -21,16 +21,13 @@ you can find the diffrent screen states
 <table>
      <tr>
           <th>
-               <img src="Screenshot_1644613479.png"
-               style="height:50%; width:50%" />
+               <img src="Screenshot_1644613479.png"/>
           </th>
           <th>
-               <img src="Screenshot_1644613479.png"
-               style="height:50%; width:50%" />
+               <img src="Screenshot_1644613479.png"/>   
           </th>
           <th>
-               <img src="Screenshot_1644613479.png"
-               style="height:50%; width:50%" />
+               <img src="Screenshot_1644613479.png"/>   
           </th>
      </tr>
 
